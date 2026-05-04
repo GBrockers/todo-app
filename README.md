@@ -2,6 +2,9 @@
 
 A simple JavaScript to-do list application with persistent storage.
 
+## Live Demo
+https://gbrockers.github.io/todo-app/
+
 ## Features
 - Add tasks
 - Mark tasks as complete
